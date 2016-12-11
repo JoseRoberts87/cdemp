@@ -69,13 +69,13 @@ A component is an identifiable part of a larger application and provides a parti
 	...
 </div>
 ```
-##Booleans
+##Boolean
 ####Stylus
 ```css
 {DEF_CMP}_COMPONENT-NAME{
 	height: 100px;
 	
-	{DEF_BOOL}_is-themed{
+	{DEF_BOOL}-themed{
 		load_theme();
 	}
 }
