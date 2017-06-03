@@ -16,7 +16,7 @@ A component is an identifiable part of a larger application and provides a parti
 }
 ```
 #### HTML
-```
+```html
 <div class="cmp_COMPONENT-NAME">
 </div>
 ```
