@@ -32,7 +32,7 @@ A component is an identifiable part of a larger application and provides a parti
 }
 ```
 #### HTML
-```
+```html
 <div class="cmp_COMPONENT-NAME">
 	<span class="cmp_COMPONENT-NAME_title"> Title </span>
 </div>
@@ -51,7 +51,7 @@ A component is an identifiable part of a larger application and provides a parti
 }
 ```
 #### HTML
-```
+```html
 <div class="cmp_COMPONENT-NAME p_color--blue">
 	<span class="cmp_COMPONENT-NAME_title"> Title </span>
 </div>
@@ -64,7 +64,7 @@ A component is an identifiable part of a larger application and provides a parti
 }
 ```
 #### HTML
-```
+```html
 <div class="cmp_COMPONENT-NAME use-default-font">
 	...
 </div>
@@ -81,7 +81,7 @@ A component is an identifiable part of a larger application and provides a parti
 }
 ```
 #### HTML
-```
+```html
 <div class="cmp_COMPONENT-NAME is-themed">
 	...
 </div>
